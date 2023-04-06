@@ -8,7 +8,7 @@
 - M.S. Student in Industrial and Management engineering at Korea University
 
 #### I'm Interested in 
-- `AI`, `Computer Vision`, `Generative Adversarial Network`, `Vision-Language Multimodal`
+- `AI`, `Computer Vision`, `Vision-Language Multimodal Representation`, `Open Vocabulary Object Detection`, `Generative model`, 
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswlsghd320)](https://github.com/anuraghazra/github-readme-stats)
